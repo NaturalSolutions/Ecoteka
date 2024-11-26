@@ -177,3 +177,6 @@ In dev mode, in order to launch Cypress Interactive Tests Runner, here are the s
 [cypress]: https://docs.cypress.io/
 [backend]: https://gitlab.com/natural-solutions/ecoteka/-/tree/dev/backend
 [frontend]: https://gitlab.com/natural-solutions/ecoteka/-/tree/dev/frontend
+
+
+More info https://natural-solutions-world or https://www.natural-solutions.eu/
